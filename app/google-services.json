@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012553053162",
+    "project_id": "ajas-b2226",
+    "storage_bucket": "ajas-b2226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012553053162:android:00c65de001acea08343893",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012553053162-1k4evcockdkqsg1iindc6s5d0tm89nht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpfJ8ECWNoFfyDjAiPZGquR9bBtrQPpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012553053162-1k4evcockdkqsg1iindc6s5d0tm89nht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
