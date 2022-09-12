@@ -1,0 +1,2 @@
+firebase:  https://www.youtube.com/watch?v=HGrNobR60TA
+mongo DB: https://www.youtube.com/watch?v=b3ZCYY3bIhg&list=LL&index=1&t=4s
